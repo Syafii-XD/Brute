@@ -1,4 +1,3 @@
-# Compile By Arya Adinata
 # Follow My Github.com/Syafii-XD
 # 100% Open Source, Recode Aja Bang🙂
 import marshal
