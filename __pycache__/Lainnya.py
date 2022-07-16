@@ -3,8 +3,8 @@
 # Name           : Yayan Multi Brute Facebook (YMBF)  #
 # File           : lainya.py                          #
 # Author         : Moch Yayan Juan Alvredo XD.        #
-# Github         : https://github.com/Yayan-XD        #
-# Facebook       : https://www.facebook.com/KM39453   #
+# Github         : https://github.com/Syafii-XD        #
+# Facebook       : https://www.facebook.com/Fikri.sinaga   #
 # Website        : https://www.yayanxd.my.id          #
 # Python version : 0.4                                #
 #######################################################
